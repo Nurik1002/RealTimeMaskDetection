@@ -2,9 +2,6 @@
 
 Real-Time Mask Detection is a project that aims to detect whether a person is wearing a mask or not in real-time using computer vision techniques. The project uses a Convolutional Neural Network (CNN) to detect masks, with an accuracy of 0.9764.
 
-## Demo
-
-![Real-Time Mask Detection Demo](demo.gif)
 
 ## Features
 
