@@ -56,8 +56,10 @@ The model architecture used for mask detection is a CNN that consists of the fol
 
 To detect masks in real-time from a webcam:
 
-python detect_mask_video.py
+`python detect_mask_video.py`
 
 To detect masks in real-time from a video stream:
+
+`python detect_mask_video.py --stream <stream_url>`
 
 In the template above, be sure to replace <stream_url> with the actual URL of the video stream you want to use.
